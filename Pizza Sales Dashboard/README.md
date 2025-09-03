@@ -28,4 +28,4 @@ The dashboard provides actionable insights to monitor sales performance and cust
 - Delivered a **dashboard that helps stakeholders monitor sales trends and make informed decisions**  
 
 ## 🖼 Dashboard Screenshot
-![Pizza Sales Dashboard](pizza_dashboard.png)
+![Pizza Sales Dashboard](pizzas.png)
