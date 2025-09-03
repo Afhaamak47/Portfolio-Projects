@@ -31,8 +31,8 @@ It consists of **5 interactive Power BI dashboards** to provide actionable insig
 - Delivered **interactive dashboards** for operational and management decision-making  
 
 ## 🖼 Dashboard Screenshots
-![Uber Dashboard 1](uber_dashboard_1.png)  
-![Uber Dashboard 2](uber_dashboard_2.png)  
-![Uber Dashboard 3](uber_dashboard_3.png)  
-![Uber Dashboard 4](uber_dashboard_4.png)  
-![Uber Dashboard 5](uber_dashboard_5.png)
+![Uber Dashboard 1](Uber_1.png)  
+![Uber Dashboard 1](Uber_2.png)  
+![Uber Dashboard 1](Uber_3.png)  
+![Uber Dashboard 1](Uber_4.png)  
+![Uber Dashboard 1](Uber_5.png)  
