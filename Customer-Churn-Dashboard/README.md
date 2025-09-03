@@ -1,4 +1,4 @@
 ## Dashboard Screenshot
 
-![Customer Churn Dashboard](Customer Retention & Cohort.png)
+![Customer Churn Dashboard](Customer_retention_2.png)
 
